@@ -1,0 +1,4 @@
+Egor   100000
+Tascher  5000
+Developer 10000
+loooser  12
